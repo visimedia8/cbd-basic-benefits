@@ -1,7 +1,7 @@
 # cbd-basic-benefits
 BASIC OF CBD FOR HEALTH FROM THE OFFICIALS 
-www.health.com/condition/chronic-pain/what-is-cbd
-www.webmd.com/vitamins/ai/ingredientmono-1439/cannabidiol-cbd 
+<p>www.health.com/condition/chronic-pain/what-is-cbd
+<p>www.webmd.com/vitamins/ai/ingredientmono-1439/cannabidiol-cbd 
 
 IS CBD SAFE
 www.cedars-sinai.org/blog/cbd-safe.html 
